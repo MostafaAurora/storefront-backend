@@ -1,0 +1,2 @@
+INSERT INTO users (first_name, last_name, email, password, role, phone_number) VALUES ('adam', 'smith', 'adam_smith1123@testmail.com', '$2b$10$3g3DtZiVdwDrR0JeYXtgh.Y5ZdWplp8vO7EYa5DWG2BR3x2ZQmUoC', 'admin', '01234556789');
+INSERT INTO users (first_name, last_name, email, password, role, phone_number) VALUES ('samir', 'ahmed', 'samir_ahmed1123@testmail.com', '$2b$10$igqZXKdgco7tDtiBWRw81uixVMoAaUB1xJ.DJ7wE21dWsMSgQ6xK2', 'moderator', '01234546789');

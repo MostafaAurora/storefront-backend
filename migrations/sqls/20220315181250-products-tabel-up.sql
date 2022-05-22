@@ -1,0 +1,10 @@
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product1', 500, 'category1', 'sub_category2', 'extra_sub_category3', 'cherry_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product2', 1000, 'category1', 'sub_category2', 'extra_sub_category2', 'flower_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product3', 700, 'category2', 'sub_category2', 'extra_sub_category3', 'flower2_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product4', 1500, 'category1', 'sub_category1', 'extra_sub_category5', 'sauce_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product5', 500, 'category3', 'sub_category2', 'extra_sub_category4', 'juice_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product6', 600, 'category4', 'sub_category3', 'extra_sub_category1', 'juice2_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product7', 300, 'category5', 'sub_category2', 'extra_sub_category2', 'juice3_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product8', 1000, 'category5', 'sub_category5', 'extra_sub_category1', 'sauce2_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product9', 550, 'category1', 'sub_category4', 'extra_sub_category3', 'sweets_test_description');
+INSERT INTO products (name, price, category, sub_category, sub_category2, product_description) VALUES ('test_product10', 550, 'category1', 'sub_category3', 'extra_sub_category1', 'sweets2_test_description');

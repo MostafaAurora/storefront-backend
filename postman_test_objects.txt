@@ -1,0 +1,28 @@
+pre created admin user for authorization
+{
+   "email": "adam_smith1123@testmail.com",
+   "password": "testpass"
+}
+
+
+test product
+{
+    "name": "test product",
+    "price": "500",
+    "category": "category1",
+    "sub_category": "category2",
+    "sub_category2": "category3",
+    "product_description": "test description"
+}
+
+test order
+{
+    "user_id": "1"
+}
+
+test order products (an order is needed for testing)
+{
+    "quantity": "1",
+    "product_id": "1",
+    "order_id": "1" 
+}
